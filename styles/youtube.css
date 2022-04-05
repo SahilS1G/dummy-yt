@@ -1,0 +1,50 @@
+
+
+.imgthumbnail{
+    width: 100%;
+}
+
+.title{
+    font-weight: bold;
+    margin-top: 2px;
+    margin-bottom: 12px;
+    line-height: 19px;
+}
+
+.channel{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-size: 12px;
+    color: #d0d0d0;
+}
+
+.views{
+    margin-top: 0px;
+    margin-bottom: 4px;
+    font-size: 12px;
+    color: #d0d0d0;
+    line-height: 20px;
+}
+
+.single-video-grid{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+
+
+
+.imgchannelpfp{
+    width: 40px;
+    border-radius: 50px;
+}
+
+.thumbnail-row{
+    margin-bottom: 10px;
+}
+
+.video-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 16px;
+    row-gap : 25px
+}
